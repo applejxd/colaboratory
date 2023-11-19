@@ -1,6 +1,6 @@
 # colaboratory
 
-Samples of scientific calculations by Google Colaboratory 
+Samples of scientific calculations by Google Colaboratory
 
 ## Local runtime の利用
 
